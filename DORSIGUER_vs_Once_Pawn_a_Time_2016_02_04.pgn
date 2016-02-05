@@ -1,0 +1,15 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2016.02.04"]
+[White "DORSIGUER"]
+[Black "Once_Pawn_a_Time"]
+[Result "1-0"]
+[WhiteElo "1410"]
+[BlackElo "1391"]
+[TimeControl "3|2"]
+[Termination "DORSIGUER won on time"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 d6 4.O-O Nf6 5.d3 Be7 6.c4 O-O 7.h3 Bd7 8.Re1 Nd4 9.Bxd7 Nxf3+ 10.Qxf3 Qxd7
+ 11.Nc3 c6 12.b4 Rac8 13.a4 b6 14.b5 c5 15.Bg5 Ne8 16.Nd5 Bxg5 17.a5 Nc7 18.Nc3 Bf6 19.axb6 axb6 20.Ra7 Ra8
+ 21.Rea1 Rxa7 22.Rxa7 Ra8 23.Rb7 Ra1+ 24.Kh2 Ra3 25.Nd5 Bd8 26.Nxb6 Qe7 27.Nd5 Qd7 28.Nb6 Qe6 29.Rb8 Qe8 30.Qg3 Ne6
+ 31.Nd5 Ra7 32.b6 Rd7 33.b7 Nc7 34.Rc8 Nxd5 35.b8=Q Ne7 36.Qh4 Nxc8 37.Qxc8 1-0
